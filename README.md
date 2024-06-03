@@ -7,7 +7,7 @@ Reaktor's  training material contributions on ITEA IML4E project
 
 ### Model answers 
 
-### Whitepapers and blog material on building AI systems 
+### Whitepapers and blog material on building AI/ML systems 
 
 https://www.reaktor.com/articles/mlops-making-machine-learning-production-work
 https://www.reaktor.com/articles/why-some-ai-projects-succeed-while-others-fail 
@@ -16,15 +16,17 @@ https://www.reaktor.com/articles/five-things-we-ve-learned-developing-genai-appl
 https://www.reaktor.com/articles/data-meets-business-lessons-learned-the-hard-way
 https://www.reaktor.com/articles/llms-are-turning-science-fiction-to-science-reality-a-case-in-healthcare
 
-
 ## Playbook for designers: crafting and LLM system 
 
-Text: 
+Text: https://www.reaktor.com/articles/crafting-llm-powered-interactions-design-principles-for-natural-language-user-interfaces
 Accompanying slides: 
 
 ### Whitepapers and blog material on building AI systems 
 
+https://www.reaktor.com/articles/ai-is-a-solution-in-search-of-a-problem
+https://www.reaktor.com/articles/train-yourself-not-the-model-a-designer-s-view-on-language-models
 https://www.reaktor.com/articles/designing-disruptive-genai-services
+https://www.reaktor.com/articles/designing-with-prompts-ai-s-impact-on-the-creative-process
 
 
 
