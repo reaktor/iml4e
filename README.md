@@ -10,12 +10,12 @@ Reaktor's training material contributions on ITEA IML4E project
 
 ### Whitepapers and article on MLOPs and building AI/ML/GenAI systems 
 
-[a](https://www.reaktor.com/whitepaper/mastering-a-genai-transition-from-poc-to-production)
-[b](https://www.reaktor.com/articles/five-things-we-ve-learned-developing-genai-applications)
-[c](https://www.reaktor.com/articles/data-meets-business-lessons-learned-the-hard-way)
-[d](https://www.reaktor.com/articles/llms-are-turning-science-fiction-to-science-reality-a-case-in-healthcare)
-[e](https://www.reaktor.com/articles/mlops-making-machine-learning-production-work)
-[f](https://www.reaktor.com/articles/why-some-ai-projects-succeed-while-others-fail) 
+- [Mastering a GenAI transition from PoC to production](https://www.reaktor.com/whitepaper/mastering-a-genai-transition-from-poc-to-production)
+- [Things we have learned developing GenAI applications](https://www.reaktor.com/articles/five-things-we-ve-learned-developing-genai-applications)
+- [Data meets business - lessons learned the hard way](https://www.reaktor.com/articles/data-meets-business-lessons-learned-the-hard-way)
+- [LLM case in healthcare](https://www.reaktor.com/articles/llms-are-turning-science-fiction-to-science-reality-a-case-in-healthcare)
+- [General article in MLOps](https://www.reaktor.com/articles/mlops-making-machine-learning-production-work)
+- [Why some ML/AI projects succeed while others fail](https://www.reaktor.com/articles/why-some-ai-projects-succeed-while-others-fail) 
 
 ## Playbook for designers: crafting an LLM system 
 
