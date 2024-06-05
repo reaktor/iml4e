@@ -21,8 +21,8 @@ Reaktor's training material contributions on ITEA IML4E project
 
 ### Text and article 
 
-[g]https://www.reaktor.com/articles/crafting-llm-powered-interactions-design-principles-for-natural-language-user-interfaces
-[h]https://www.reaktor.com/articles/designing-disruptive-genai-services
+[g](https://www.reaktor.com/articles/crafting-llm-powered-interactions-design-principles-for-natural-language-user-interfaces)
+[h](https://www.reaktor.com/articles/designing-disruptive-genai-services)
 
 Accompanying slides. Note: these are copyrighted 
 
@@ -31,4 +31,4 @@ Accompanying slides. Note: these are copyrighted
 [i](https://www.reaktor.com/articles/ai-is-a-solution-in-search-of-a-problem)
 [j](https://www.reaktor.com/articles/train-yourself-not-the-model-a-designer-s-view-on-language-models)
 [k](https://www.reaktor.com/articles/designing-disruptive-genai-services)
-https://www.reaktor.com/articles/designing-with-prompts-ai-s-impact-on-the-creative-process
+[l](https://www.reaktor.com/articles/designing-with-prompts-ai-s-impact-on-the-creative-process)
