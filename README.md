@@ -6,7 +6,7 @@ Reaktor's training material contributions on ITEA IML4E project.
 
 The following excercises are suitable for a solution team of developers and ML specialists. It is advisable to go first thorugh an introdcution to MLOps technical framework before the excercises. For example [Helsinki University course](https://studies.helsinki.fi/courses/course-unit/otm-995b4379-d234-4c64-bcf7-9981fc39ddfd/DATA11008) uses this material as excerices. The excercises are meant to be done as team discussions and planning. 
 
-- Excercises slides and summary of expected themes in team answers   
+- Excercises slides and summary of expected themes in team answers (pdf and pptx).  See ./docs/   
 
 ## Material for designers: crafting an LLM system 
 
