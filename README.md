@@ -9,9 +9,7 @@ The following excercises are suitable for a solution team of developers and ML s
 - Excercises slides and summary of expected themes in team answers (pdf and pptx).  See ./docs/   
 
 ### Hints 
-- Usually solutions have upsides and downsides for the various stakeholders. Analyse them. Assess if the solution would be feasible in the real world. If not, what would you deem the hardest obstacle? Stakeholder analysis: who needs what, who has to do things? 
-  - (Even some simplified business canvas work could help?)[https://drive.google.com/file/d/1Qbew9KvbP2SW4L4UDZW_-sgvl0k9WoEz] 
- - (Or a devops adaptation?)[ https://drive.google.com/file/d/1bMxGDhVnqQBjfizwT-UlPGOGWubDeIgv]
+- Usually solutions have upsides and downsides for the various stakeholders. Analyse them. Assess if the solution would be feasible in the real world. If not, what would you deem the hardest obstacle? Stakeholder analysis: who needs what, who has to do things? Even some simplified *business canvas work* could help? Or a DevOps adaptation?
 - Should the solution be essentially technological or cultural?
 - Is a general plan enough? Should you specify the particular tools? Should you implement an example?
 
